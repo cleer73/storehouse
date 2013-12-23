@@ -1,0 +1,12 @@
+{
+    "name": "cleer73/storage",
+    "require": {
+        "fzaninotto/faker": "v1.3.0"
+    },
+    "authors": [
+        {
+            "name": "Jacob Lee",
+            "email": "jake@cleer.net"
+        }
+    ]
+}
